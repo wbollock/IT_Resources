@@ -1,4 +1,4 @@
-#Compilation of IT-related Resources
+# Compilation of IT-related Resources
 
 ##General
 [Asking Questions the Smart Way](http://catb.org/~esr/faqs/smart-questions.html)
