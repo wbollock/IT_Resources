@@ -90,6 +90,10 @@ Great and easy to understand book on learning programming through practical proj
 [Android Youtube Tutorial - newboston](https://www.youtube.com/watch?v=NMDPxN8FgXM&index=9&list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
 Old, but good fundamentals. Probably want to start with Kotlin now instead of Java.
 
+## JavaScript
+
+[Creating a Chrome Extension](https://blog.jakelee.co.uk/creating-a-history-clearing-chrome-extension/)
+
 ### Challenges
 [Leetcode](https://leetcode.com/)
 
