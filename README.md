@@ -145,3 +145,7 @@ Clean Code
 
 ## Data Science (Machine Learning, AI, Big Data)
 [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
+
+## Misc
+[Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+Maximize your efficency.
