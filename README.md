@@ -1,6 +1,6 @@
 # Compilation of IT-related Resources
 
-##General
+## General
 [Asking Questions the Smart Way](http://catb.org/~esr/faqs/smart-questions.html)
 
 [IT Career Questions](https://www.reddit.com/r/ITCareerQuestions)
@@ -21,7 +21,7 @@ Delves into different areas of IT, has even more resources.
 [How to Advance in IT](https://www.reddit.com/r/ITCareerQuestions/comments/3b2y3f/a_few_tips_for_new_it_graduates_and_entry_level/)
 "DECIDE on which discipline you want to focus on and find a program that actually focuses on that."
 
-##Linux
+## Linux
 [Distro Chooser](https://distrochooser.de/en)
 
 [Arch Wiki](https://wiki.archlinux.org/)
@@ -32,7 +32,7 @@ Delves into different areas of IT, has even more resources.
 
 [Red Hat Cert](https://www.redhat.com/en/services/certification/rhcsa)
 
-###Bash
+### Bash
 [Learning Bash](https://alexpetralia.com/posts/2017/6/26/learning-linux-bash-to-get-things-done)
 
 [Shell Programming](https://arachnoid.com/linux/shell_programming.html)
@@ -46,11 +46,11 @@ Good for intermediate-advanced bash scripting, might be a little rough for start
 
 [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
 
-##Virtualization
+### Virtualization
 [KVM for Headless Ubuntu](https://help.ubuntu.com/community/KVM/Installation)
 
 
-##Sysadmin
+## Sysadmin
 [Bootcamp](https://www.reddit.com/r/sysadmin/wiki/bootcamp)
 
 [How Do I Become a Linux Sysadmin?](https://www.reddit.com/r/linuxadmin/comments/2s924h/how_did_you_get_your_start/cnnw1ma/)
@@ -70,12 +70,12 @@ Huge list of resources.
 
 [Test Your Sysadmin Skills](https://github.com/trimstray/test-your-sysadmin-skills)
 
-###Containerization
+### Containerization
 [Docker Tutorial](https://github.com/GhostWriters/DockSTARTer)
 
 [Kubernetes in 5 minutes](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 
-##Programming
+## Programming
 [Automate the Boring Stuff - Python](https://automatetheboringstuff.com/)
 Great and easy to understand book on learning programming through practical projects
 
@@ -90,26 +90,26 @@ Great and easy to understand book on learning programming through practical proj
 [Android Youtube Tutorial - newboston](https://www.youtube.com/watch?v=NMDPxN8FgXM&index=9&list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
 Old, but good fundamentals. Probably want to start with Kotlin now instead of Java.
 
-###Challenges
+### Challenges
 [Leetcode](https://leetcode.com/)
 
 [Codewars](https://www.codewars.com/)
 
-###Blockchain
+### Blockchain
 [Solidity](https://solidity.readthedocs.io/en/v0.6.2/)
 
-###Git
+### Git
 [Oh Shit Git](https://ohshitgit.com/)
 
-###SQL/Databases
+### SQL/Databases
 [Jowett Database Resources](http://qcitr.com/dblinks.htm)
 
 
-##Cybersecurity
+## Cybersecurity
 
 [PicoCTF](https://2019game.picoctf.com/)
 
-###Hacking (ethical)
+### Hacking (ethical)
 [/r/HowToHack](https://www.reddit.com/r/HowToHack/)
 
 [Hacker Roadmap](https://github.com/Sundowndev/hacker-roadmap)
@@ -118,25 +118,25 @@ Old, but good fundamentals. Probably want to start with Kotlin now instead of Ja
 Highly inadvisable to try this on any Wi-Fi network you don't COMPLETELY control.
 
 
-##IT Auditing
+## IT Auditing
 
 [OPs Report Card](http://opsreportcard.com/)
 
-##Windows
+## Windows
 [Practice to Become Windows Sysadmin](https://www.reddit.com/r/sysadmin/comments/3z7qd9/practice_to_become_a_windows_sysadmin/cyjynxh/)
 
-##Podcasts
+## Podcasts
 
 Darknet Diaries
 
 [/r/sysadmin Podcasts](https://www.reddit.com/r/sysadmin/wiki/learn/podcasts)
 
-##Books
+## Books
 The Phoenix Project
 
 Clean Code
 
-##Networking
+## Networking
 [OSI Layers](http://jaredheinrichs.com/mastering-the-osi-tcpip-models.html)
 
 ## Data Science (Machine Learning, AI, Big Data)
